@@ -1,13 +1,13 @@
 
 Chrome+XX-Net
 ========
-* 项目状态：chrome44.0.2403.155集成xx-net2.07,新用户启动后，需要等待一段时间（30分钟到1小时），扫描到足够ip之后会比较流畅   
+* 项目状态：chrome_44.0.2403.157集成xx-net_2.12,新用户启动后，需要等待一段时间（30分钟到1小时），扫描到足够ip之后会比较流畅   
 
 
 下载链接：
 ==========
-* 本地：https://github.com/yeahwu/wu/releases/download/chrome/CN.GoogleChrome.zip
-* 腾讯微云：（有效期一个星期）http://share.weiyun.com/c3186105c84eb1e313048d6aea7e8024
+* 本地：https://github.com/yeahwu/wu/releases/download/chrome/GoogleChrome212.zip
+* 腾讯微云：（有效期一个星期）http://share.weiyun.com/be93a551e9442f8149fc73a57cb0eafa
    
 
 问题
@@ -24,7 +24,7 @@ Chrome+XX-Net
 ========
 * 点击chrome.vbs启动，启动前会检测进程，所以不管怎么打开关闭，系统里只保留一个进程。
 * 隐藏goagent窗口，隐藏xx-net窗口，去掉弹窗。
-* 内置了25个私人appid, 方便新手。
+* 内置了50个私人appid, 方便新手。
 * 自动导入证书，减少大量手动工作。
 
 
