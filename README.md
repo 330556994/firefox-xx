@@ -13,7 +13,7 @@ Chrome+XX-Net
 问题
 ========
 * xp系统问题:
-   - 需要 tcpip.sys 补丁, 比如用 tcp-z
+   - 需要 tcpip.sys 补丁, 比如用 tcp-z. 下面是补丁下载地址，将数量调节到2014. http://yun.baidu.com/share/link?shareid=1853038681&uk=352729485
 * 文件解压错误问题: 
    - 请用7-zip解压
 * 遇到“您的连接不是私密连接”问题: 
