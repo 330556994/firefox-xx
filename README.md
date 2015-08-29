@@ -1,7 +1,7 @@
 
 Chrome+XX-Net
 ========
-* 项目状态：chrome_44.0.2403.157集成xx-net_2.12,新用户启动后，需要等待一段时间（30分钟到1小时），扫描到足够ip之后会比较流畅   
+* 项目状态：chrome_44.0.2403.157集成xx-net_2.12, 新用户启动后，需要等待一段时间（30分钟到1小时），扫描到足够ip之后会比较流畅   
 
 
 下载链接：
@@ -24,8 +24,8 @@ Chrome+XX-Net
 ========
 * 点击chrome.vbs启动，启动前会检测进程，所以不管怎么打开关闭，系统里只保留一个进程。
 * 隐藏goagent窗口，隐藏xx-net窗口，去掉弹窗。
-* 内置了50个私人appid, 方便新手。（老手请换上自己的APPID）下面是申请appid的详细教程，做完一、二步即可。然后把申请到的id填入xx-net主页，配置项，完成。https://github.com/phuslu/goproxy/blob/wiki/InstallGuide.md
 * 自动导入证书，减少大量手动工作。
+* 内置了50个私人appid, 方便新手。（老手请换上自己的APPID）下面是申请appid的详细教程，做完一、二步即可。然后把申请到的id填入xx-net主页，配置项，完成。  https://github.com/phuslu/goproxy/blob/wiki/InstallGuide.md
 
 
 平台支持情况
