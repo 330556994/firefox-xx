@@ -1,0 +1,40 @@
+Aug 29 01:56:08 - [DEBUG] start confirm_xxnet_exit
+Aug 29 01:56:19 - [INFO] gae_proxy started
+Aug 29 01:56:19 - [INFO] start gae_proxy time cost 9799
+Aug 29 01:56:19 - [INFO] generate desktop shortcut
+Aug 29 01:56:21 - [INFO] need_new_uuid: uuid is empty
+Aug 29 01:56:21 - [INFO] generate uuid:dcd9c48b-633e-44ce-99ee-0c485bb689c1
+Aug 29 01:56:21 - [INFO] get uuid:dcd9c48b-633e-44ce-99ee-0c485bb689c1
+Aug 29 01:56:25 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/README.md to E:\Ñ¸À×ÏÂÔØ\GoogleChromePortable\data\downloads\README.md
+Aug 29 01:57:04 - [DEBUG] module gae_proxy stopping
+Aug 29 01:57:05 - [INFO] module gae_proxy stopped
+Aug 29 01:57:09 - [INFO] begin to exit web control
+Aug 29 01:57:09 - [INFO] launcher web control exited.
+Aug 29 01:59:26 - [DEBUG] start confirm_xxnet_exit
+Aug 29 01:59:29 - [INFO] gae_proxy started
+Aug 29 01:59:29 - [INFO] start gae_proxy time cost 1766
+Aug 29 02:01:37 - [DEBUG] module gae_proxy stopping
+Aug 29 02:01:37 - [INFO] module gae_proxy stopped
+Aug 29 02:01:42 - [INFO] begin to exit web control
+Aug 29 02:01:43 - [INFO] launcher web control exited.
+Aug 29 02:01:59 - [DEBUG] start confirm_xxnet_exit
+Aug 29 02:02:01 - [INFO] gae_proxy started
+Aug 29 02:02:01 - [INFO] start gae_proxy time cost 1315
+Aug 29 02:03:23 - [DEBUG] start confirm_xxnet_exit
+Aug 29 02:03:26 - [INFO] gae_proxy started
+Aug 29 02:03:26 - [INFO] start gae_proxy time cost 1389
+Aug 29 02:03:59 - [DEBUG] module gae_proxy stopping
+Aug 29 02:04:00 - [INFO] module gae_proxy stopped
+Aug 29 02:04:00 - [INFO] gae_proxy started
+Aug 29 02:04:00 - [INFO] start gae_proxy time cost 101
+Aug 29 02:04:47 - [DEBUG] start confirm_xxnet_exit
+Aug 29 02:04:49 - [INFO] gae_proxy started
+Aug 29 02:04:49 - [INFO] start gae_proxy time cost 1373
+Aug 29 02:05:23 - [DEBUG] start confirm_xxnet_exit
+Aug 29 02:05:26 - [INFO] gae_proxy started
+Aug 29 02:05:26 - [INFO] start gae_proxy time cost 1389
+Aug 29 02:05:59 - [DEBUG] module gae_proxy stopping
+Aug 29 02:06:00 - [INFO] module gae_proxy stopped
+Aug 29 02:06:11 - [DEBUG] start confirm_xxnet_exit
+Aug 29 02:06:14 - [INFO] gae_proxy started
+Aug 29 02:06:14 - [INFO] start gae_proxy time cost 1375
