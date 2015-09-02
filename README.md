@@ -7,7 +7,7 @@ Chrome+XX-Net
 下载链接：
 ==========
 * 本地：https://github.com/yeahwu/wu/releases/download/chrome/GoogleChrome212.zip
-* 腾讯微云：（有效期一个星期）http://share.weiyun.com/be93a551e9442f8149fc73a57cb0eafa
+* 百度网盘：http://pan.baidu.com/s/1pJBrWKj
    
 
 问题
