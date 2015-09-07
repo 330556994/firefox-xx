@@ -4,9 +4,7 @@ Set objFSO = CreateObject("Scripting.FileSystemObject")
 Set objFile = objFSO.GetFile(strPath)
 strFolder = objFSO.GetParentFolderName(objFile) 
 
-Dim NRun, WU
-Set WU = CreateObject("Wscript.shell")
-NRun = True
+Dim NRun
 For Each ps In Getobject("winmgmts:\\.\root\cimv2:win32_process").instances_
 If UCase(ps.name) = UCase("python.exe") Then ps.terminate : NRun = False
 Next
