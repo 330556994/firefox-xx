@@ -1,13 +1,13 @@
 
 Chrome+XX-Net
 ========
-* 项目状态：chrome_44.0.2403.157集成xx-net_2.3.0, 新用户启动后，需要等待一段时间（30分钟到1小时），扫描到足够ip之后会比较流畅   
+* 项目状态：Chrome_45.0.2454.85集成XX-Net_2.3.0, 新用户启动后，需要等待一段时间（20分钟到1小时），扫描到足够ip之后会比较流畅   
 
 
 下载链接：
 ==========
-* 本地：https://github.com/yeahwu/chrome/archive/master.zip  (集成XX-NET 2.3.0版）
-* 百度网盘：http://pan.baidu.com/s/1pJBrWKj    （集成XX-NET 2.1.2版）
+* 集成XX-NET 2.3.0版下载：https://github.com/yeahwu/chrome/archive/master.zip  
+* 集成XX-NET 2.0.5版下载：https://github.com/yeahwu/wu/releases/download/chrome/Chrome.XX205.zip 
    
 
 问题
