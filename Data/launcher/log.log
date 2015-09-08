@@ -1,0 +1,86 @@
+Sep 09 01:22:51 - [DEBUG] start confirm_xxnet_exit
+Sep 09 01:22:57 - [INFO] gae_proxy started
+Sep 09 01:22:57 - [INFO] start gae_proxy time cost 4789
+Sep 09 01:22:57 - [INFO] generate desktop shortcut
+Sep 09 01:22:58 - [INFO] need_new_uuid: uuid is empty
+Sep 09 01:22:58 - [INFO] generate uuid:0539acc7-2e90-46f8-86ff-8e7cd9906783
+Sep 09 01:22:58 - [INFO] get uuid:0539acc7-2e90-46f8-86ff-8e7cd9906783
+Sep 09 01:22:58 - [ERROR] xxnet_version fail
+Sep 09 01:23:19 - [DEBUG] start confirm_xxnet_exit
+Sep 09 01:23:21 - [INFO] gae_proxy started
+Sep 09 01:23:21 - [INFO] start gae_proxy time cost 1295
+Sep 09 01:23:24 - [INFO] get uuid:0539acc7-2e90-46f8-86ff-8e7cd9906783
+Sep 09 01:23:24 - [ERROR] xxnet_version fail
+Sep 09 01:23:51 - [DEBUG] module gae_proxy stopping
+Sep 09 01:23:52 - [INFO] module gae_proxy stopped
+Sep 09 01:23:53 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:23:54 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:25:45 - [DEBUG] start confirm_xxnet_exit
+Sep 09 01:25:48 - [INFO] gae_proxy started
+Sep 09 01:25:48 - [INFO] start gae_proxy time cost 1278
+Sep 09 01:28:15 - [DEBUG] module gae_proxy stopping
+Sep 09 01:28:16 - [INFO] module gae_proxy stopped
+Sep 09 01:28:16 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:28:17 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:28:19 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:28:20 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:28:21 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:28:22 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:28:23 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:28:24 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:28:25 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:28:26 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:28:27 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:28:27 - [INFO] begin to exit web control
+Sep 09 01:28:28 - [INFO] launcher web control exited.
+Sep 09 01:28:42 - [DEBUG] start confirm_xxnet_exit
+Sep 09 01:28:44 - [INFO] gae_proxy started
+Sep 09 01:28:44 - [INFO] start gae_proxy time cost 1294
+Sep 09 01:30:15 - [DEBUG] module gae_proxy stopping
+Sep 09 01:30:16 - [INFO] module gae_proxy stopped
+Sep 09 01:30:17 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:18 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:18 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:19 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:19 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:20 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:20 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:21 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:21 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:22 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:22 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:23 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:23 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:24 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:24 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:25 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:25 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:26 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:26 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:27 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:28 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:28 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:29 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:29 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:30 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:30 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:31 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:31 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:32 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:32 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:33 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:33 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:34 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:34 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:35 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:35 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:36 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:36 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:37 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:37 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:38 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:38 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:39 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:39 - [WARNING] request /module/gae_proxy/control/status no module in path
+Sep 09 01:30:40 - [INFO] begin to exit web control
+Sep 09 01:30:40 - [INFO] launcher web control exited.
