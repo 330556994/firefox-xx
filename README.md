@@ -56,9 +56,9 @@ Chrome+XX-Net
 
 chrome状态页
 
-![chrome_status](http://a.hiphotos.baidu.com/image/pic/item/cdbf6c81800a19d88406df6235fa828ba61e464b.jpg)
+![chrome_status](https://github.com/yeahwu/wu/blob/master/chrome1.JPG?raw=true)
 
 GAEProxy状态页面
 
-![goagent_status](https://cloud.githubusercontent.com/assets/10395528/5849287/f71c62fc-a1b9-11e4-9ae0-b33fc78ed5fd.png)
+![goagent_status](https://github.com/yeahwu/wu/blob/master/chrome2.JPG?raw=true)
 
