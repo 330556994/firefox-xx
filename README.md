@@ -6,8 +6,8 @@ Chrome+XX-Net
 
 下载链接：
 ==========
-* 集成XX-NET 2.3.0版 ：  [点、点、点、点、下载](https://github.com/yeahwu/chrome/archive/master.zip)  
-* 集成XX-NET 2.0.5版 ：  [点一下就够了哦！下载](https://github.com/yeahwu/wu/releases/download/chrome/Chrome.XX205.zip) 
+* 集成XX-NET 2.3.0版 ：  [点、点、点、点、点、下载](https://github.com/yeahwu/chrome/archive/master.zip)  
+* 集成XX-NET 2.0.5版 ：  [楼上的，点多了会怀孕，点一下就够了哦！下载](https://github.com/yeahwu/wu/releases/download/chrome/Chrome.XX205.zip) 
    
 
 问题
