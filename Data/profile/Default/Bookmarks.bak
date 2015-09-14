@@ -1,10 +1,16 @@
 {
-   "checksum": "36896e0ec4dcbeb76479d65d21d7978f",
+   "checksum": "62c5442231bd187c02c75cea9cab7d8e",
    "roots": {
       "bookmark_bar": {
-         "children": [  ],
+         "children": [ {
+            "date_added": "13086678920297793",
+            "id": "7",
+            "name": "yeahwu (YeahWu) · GitHub",
+            "type": "url",
+            "url": "https://github.com/yeahwu"
+         } ],
          "date_added": "0",
-         "date_modified": "13028788410338143",
+         "date_modified": "13086678920297793",
          "id": "1",
          "name": "书签栏",
          "type": "folder"

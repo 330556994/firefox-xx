@@ -84,3 +84,53 @@ Sep 09 01:30:39 - [WARNING] request /module/gae_proxy/control/status no module i
 Sep 09 01:30:39 - [WARNING] request /module/gae_proxy/control/status no module in path
 Sep 09 01:30:40 - [INFO] begin to exit web control
 Sep 09 01:30:40 - [INFO] launcher web control exited.
+Sep 14 12:33:02 - [INFO] start XX-Net get_version_fail
+Sep 14 12:33:02 - [DEBUG] start confirm_xxnet_exit
+Sep 14 12:33:11 - [INFO] gae_proxy started
+Sep 14 12:33:11 - [INFO] start gae_proxy time cost 8613
+Sep 14 12:33:12 - [INFO] generate desktop shortcut
+Sep 14 12:33:15 - [INFO] get uuid:0539acc7-2e90-46f8-86ff-8e7cd9906783
+Sep 14 12:33:16 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/README.md to D:\GitHub\chrome\data\downloads\README.md
+Sep 14 12:33:54 - [DEBUG] launcher web_control 127.0.0.1:6781 GET /download?cmd=get_progress 
+Sep 14 12:33:54 - [DEBUG] launcher web_control 127.0.0.1:6782 GET /config?cmd=get_config 
+Sep 14 12:34:04 - [DEBUG] launcher web_control 127.0.0.1:6808 GET /config?cmd=set_config&popup_webui=0 
+Sep 14 12:39:21 - [DEBUG] module gae_proxy stopping
+Sep 14 12:39:23 - [INFO] module gae_proxy stopped
+Sep 14 12:39:24 - [INFO] start XX-Net get_version_fail
+Sep 14 12:39:24 - [DEBUG] start confirm_xxnet_exit
+Sep 14 12:39:26 - [INFO] gae_proxy started
+Sep 14 12:39:26 - [INFO] start gae_proxy time cost 1309
+Sep 14 12:39:27 - [INFO] get uuid:0539acc7-2e90-46f8-86ff-8e7cd9906783
+Sep 14 12:39:42 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/README.md to D:\GitHub\chrome\data\downloads\README.md
+Sep 14 12:39:50 - [DEBUG] module gae_proxy stopping
+Sep 14 12:39:51 - [INFO] module gae_proxy stopped
+Sep 14 12:40:40 - [INFO] start XX-Net get_version_fail
+Sep 14 12:40:40 - [DEBUG] start confirm_xxnet_exit
+Sep 14 12:40:42 - [INFO] gae_proxy started
+Sep 14 12:40:42 - [INFO] start gae_proxy time cost 1294
+Sep 14 12:40:43 - [INFO] get uuid:0539acc7-2e90-46f8-86ff-8e7cd9906783
+Sep 14 12:41:14 - [WARNING] check_update fail:HTTPError()
+Sep 14 12:41:14 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/README.md to D:\GitHub\chrome\data\downloads\README.md
+Sep 14 12:41:39 - [DEBUG] module gae_proxy stopping
+Sep 14 12:41:40 - [INFO] module gae_proxy stopped
+Sep 14 12:42:05 - [INFO] start XX-Net get_version_fail
+Sep 14 12:42:05 - [DEBUG] start confirm_xxnet_exit
+Sep 14 12:42:07 - [INFO] gae_proxy started
+Sep 14 12:42:07 - [INFO] start gae_proxy time cost 1295
+Sep 14 12:42:08 - [INFO] get uuid:0539acc7-2e90-46f8-86ff-8e7cd9906783
+Sep 14 12:42:39 - [WARNING] check_update fail:HTTPError()
+Sep 14 12:42:39 - [ERROR] download https://raw.githubusercontent.com/XX-net/XX-Net/master/README.md to D:\GitHub\chrome\data\downloads\README.md fail:IOError(9, 'Bad file descriptor')
+Sep 14 12:42:39 - [WARNING] check update fail:IOError('get README https://raw.githubusercontent.com/XX-net/XX-Net/master/README.md fail:',)
+Sep 14 12:42:52 - [INFO] begin to exit web control
+Sep 14 12:42:52 - [INFO] launcher web control exited.
+Sep 14 12:44:36 - [INFO] start XX-Net get_version_fail
+Sep 14 12:44:36 - [DEBUG] start confirm_xxnet_exit
+Sep 14 12:44:38 - [INFO] gae_proxy started
+Sep 14 12:44:38 - [INFO] start gae_proxy time cost 1279
+Sep 14 12:44:39 - [INFO] get uuid:0539acc7-2e90-46f8-86ff-8e7cd9906783
+Sep 14 12:45:10 - [WARNING] check_update fail:HTTPError()
+Sep 14 12:45:10 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/README.md to D:\GitHub\chrome\data\downloads\README.md
+Sep 14 12:50:38 - [DEBUG] module gae_proxy stopping
+Sep 14 12:50:39 - [INFO] module gae_proxy stopped
+Sep 14 12:51:13 - [INFO] begin to exit web control
+Sep 14 12:51:14 - [INFO] launcher web control exited.
