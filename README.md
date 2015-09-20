@@ -10,6 +10,7 @@ Chrome+XX-Net
 
 * [Chrome45集成XX-NET 2.0.5版](https://github.com/yeahwu/wu/releases/download/chrome/Chrome.XX205.zip) 
    
+* [历史版本](https://github.com/yeahwu/chrome/releases)
 
 问题
 ========
