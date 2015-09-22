@@ -39,8 +39,8 @@ Chrome+XX-Net
 
 联系
 ======
-[Google](https://plus.google.com/communities/101215702940766881013)
-[Twitter](https://twitter.com/yeahwu404)
+* [Google](https://plus.google.com/communities/101215702940766881013)
+* [Twitter](https://twitter.com/yeahwu404)
 
 感谢
 =======
