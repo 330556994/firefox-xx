@@ -1,0 +1,42 @@
+{
+   "checksum": "40326cbcd33b01ea32985802799da539",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13087918439783254",
+            "id": "7",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13087918491863688",
+            "id": "8",
+            "name": "yeahwu (YeahWu) · GitHub",
+            "type": "url",
+            "url": "https://github.com/yeahwu"
+         } ],
+         "date_added": "0",
+         "date_modified": "13087918491863688",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "0",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13028788397005139",
+         "date_modified": "0",
+         "id": "4",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
