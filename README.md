@@ -21,7 +21,7 @@ Chrome+XX-Net
 
 主要特性
 ========
-* 点击chrome.vbs启动，启动前会检测进程，所以不管怎么打开关闭，系统里只保留一个进程。
+* 点击Chrome-XX.vbs启动，启动前会检测进程，所以不管怎么打开关闭，系统里只保留一个进程。
 * 隐藏goagent窗口，隐藏xx-net窗口，去掉弹窗。
 * 自动导入证书，减少大量手动工作。
 * 内置了80个私人appid, 方便新手。（老手请换上自己的APPID）下面是申请appid的详细教程，做完一、二步即可。然后把申请到的id填入xx-net主页，配置项，完成。  https://github.com/phuslu/goproxy/blob/wiki/InstallGuide.md
@@ -33,7 +33,7 @@ Chrome+XX-Net
 
 使用方法：
 ========
-* Windows下, 双击 chrome.vbs，不用任何配置。
+* Windows下, 双击 Chrome-XX.vbs，不用任何配置。
   - 托盘图标：点击可弹出Web管理界面, 右键可显示常用功能菜单。
   - Win7/8/10：提示请求管理员权限, 安装CA证书。请点击同意。
 
