@@ -1,5 +1,0 @@
-modules:
-  gae_proxy: {auto_start: 1}
-  launcher: {control_port: 8085, popup_webui: 0}
-  php_proxy: {control_port: 8083}
-update: {last_path: 'D:\GitHub\chrome\launcher', uuid: 0539acc7-2e90-46f8-86ff-8e7cd9906783}
