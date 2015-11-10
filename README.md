@@ -10,6 +10,8 @@ Chrome+XX-Net
    
 * [历史版本](https://github.com/yeahwu/chrome/releases)
 
+* Chrome45集成XX-NET 2.5.5版 sync同步密匙：   BJIIRRMNNK5PBCPLSPMV6NFZJY7ADTEAP 
+
 问题
 ========
 * xp系统问题:
