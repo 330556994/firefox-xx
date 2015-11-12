@@ -1,12 +1,12 @@
 Chrome+XX-Net
 ========
-* 项目状态：Chrome_45.0.2454.101集成XX-Net_2.5.5, 新用户启动后，需要等待一段时间（20分钟到1小时），扫描到足够ip之后会比较流畅   
+* 项目状态：Chrome_46.0.2490.80集成XX-Net_2.6.0, 新用户启动后，需要等待一段时间（20分钟到1小时），扫描到足够ip之后会比较流畅   
 
 下载链接：
 ==========
-* [Chrome45集成XX-NET 2.5.5版](https://github.com/yeahwu/chrome/archive/master.zip)  
+* [Chrome46集成XX-NET 2.6.0版](https://github.com/yeahwu/chrome/archive/master.zip)  
 
-* [Chrome45集成XX-NET 2.0.5版](https://github.com/yeahwu/wu/releases/download/chrome/Chrome.XX205.zip) 
+* [Chrome45集成XX-NET 2.5.5版](https://github.com/yeahwu/chrome-xx/archive/Chrome_45.0.2454.101%E9%9B%86%E6%88%90XX-Net_2.5.5.zip) 
    
 * [历史版本](https://github.com/yeahwu/chrome/releases)
 
