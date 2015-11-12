@@ -1,0 +1,9 @@
+103.11.28.120 *.googlevideo.com gws 1539 0
+188.43.64.155 google.com gws 1865 0
+45.120.85.148 google.com gws 1626 1
+84.244.61.241 google.com gws 2774 0
+193.90.147.55 *.googlevideo.com gws 2306 1
+188.21.9.199 *.googlevideo.com gws 3913 0
+123.205.250.69 *.googlevideo.com gws 2359 2
+103.11.28.117 google.com gws 3758 2
+210.187.22.132 *.googlevideo.com gws 5356 2
