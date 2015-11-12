@@ -1,3 +1,0 @@
-118.98.111.139 *.googlevideo.com gws 253
-103.11.30.50 *.googlevideo.com gws 858
-103.11.28.117 google.com gws 1144
