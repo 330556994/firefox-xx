@@ -4,9 +4,9 @@ Chrome+XX-Net
 
 下载链接：
 ==========
-* [Chrome46集成XX-NET 2.6.0版](https://github.com/yeahwu/chrome/archive/master.zip)  
+* [Chrome46集成XX-NET 2.6.0,本地下载](https://github.com/yeahwu/chrome/archive/master.zip)  
 
-   - BTSync同步下载密匙：  BQFHFBZ7XWIZWE3GQENNRQSF2U6TJ2Y6B
+* Chrome46集成XX-NET 2.6.0,  BTSync同步下载密匙：  BQFHFBZ7XWIZWE3GQENNRQSF2U6TJ2Y6B
    
 * [历史版本](https://github.com/yeahwu/chrome/releases)
 
