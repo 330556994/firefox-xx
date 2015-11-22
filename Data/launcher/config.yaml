@@ -5,5 +5,5 @@ modules:
 update:
   check_update: dont-check
   last_path: !!binary |
-    RTpc0MK9qM7EvP680FxsYXVuY2hlcg==
-  uuid: 51f99e88-4e47-418c-aca0-d94054f43998
+    RTpc0bjA18/C1NhcWFgtTmV0LTIuNi4yXGxhdW5jaGVy
+  uuid: 22a2959a-aa60-4adc-9c3f-cf9f9f9cdf3f
