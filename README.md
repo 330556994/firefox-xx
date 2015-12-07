@@ -6,7 +6,7 @@ Chrome+XX-Net
 
 下载链接：
 ==========
-* [Chrome47集成XX-NET 2.7.3  抢先版](https://github.com/yeahwu/chrome-xx/archive/master.zip)
+* [Chrome47集成XX-Net_2.7.3  抢先版](https://github.com/yeahwu/chrome-xx/archive/master.zip)
 
 * [Chrome46集成XX-Net_2.6.2  稳定版](https://github.com/yeahwu/chrome-xx/archive/Chrome_46.0.2490.80%E9%9B%86%E6%88%90XX-Net_2.6.2.zip)
    
