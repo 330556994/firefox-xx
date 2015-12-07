@@ -1,14 +1,14 @@
 Chrome+XX-Net
 ========
-* 项目状态：Chrome_46.0.2490.80集成XX-Net_2.6.0, 新用户启动后，需要等待一段时间（20分钟到1小时），扫描到足够ip之后会比较流畅  
+* 项目状态：Chome_47.0.2526.73集成XX-Net_2.7.3, 新用户启动后，需要等待一段时间（20分钟到1小时），扫描到足够ip之后会比较流畅  
 
 * 点击Chrome-XX.vbs启动。如果SwitchyOmega插件弹出“你的互联网连接受到控制”，请点击保留更改。
 
 下载链接：
 ==========
-* [Chrome46集成XX-NET 2.6.2  抢先版](https://github.com/yeahwu/chrome-xx/archive/master.zip)
+* [Chrome47集成XX-NET 2.7.3  抢先版](https://github.com/yeahwu/chrome-xx/archive/master.zip)
 
-* [Chrome45集成XX-Net_2.5.5  稳定版](https://github.com/yeahwu/chrome-xx/archive/Chrome_45.0.2454.101%E9%9B%86%E6%88%90XX-Net_2.5.5.zip)
+* [Chrome46集成XX-Net_2.6.2  稳定版](https://github.com/yeahwu/chrome-xx/archive/Chrome_46.0.2490.80%E9%9B%86%E6%88%90XX-Net_2.6.2.zip)
    
 * [历史版本](https://github.com/yeahwu/chrome/releases)
 
