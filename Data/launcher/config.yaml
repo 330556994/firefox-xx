@@ -1,6 +1,0 @@
-modules:
-  gae_proxy: {auto_start: 1}
-  launcher: {allow_remote_connect: 0, control_port: 8085, popup_webui: 0}
-  php_proxy: {control_port: 8083}
-update: {check_update: dont-check, last_path: 'D:\GoogleChromePortable\launcher',
-  uuid: 373d03ae-8e64-46bf-bc2e-b6cc5e9bf495}
