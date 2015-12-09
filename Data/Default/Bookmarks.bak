@@ -1,0 +1,30 @@
+{
+   "checksum": "dcbf7238ece792701f599f7fb4fcc8d9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13077186819359885",
+         "date_modified": "13093531246887718",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13077186819359896",
+         "date_modified": "0",
+         "id": "28",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13077186819359897",
+         "date_modified": "0",
+         "id": "29",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
