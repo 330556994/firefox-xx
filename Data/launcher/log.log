@@ -1,0 +1,101 @@
+Dec 12 17:09:06 - [ERROR] xxnet_version fail
+Dec 12 17:09:06 - [INFO] start XX-Net get_version_fail
+Dec 12 17:09:06 - [DEBUG] start confirm_xxnet_exit
+Dec 12 17:09:07 - [DEBUG] good, xxnet:8087 cleared!
+Dec 12 17:09:08 - [DEBUG] good, xxnet:8085 clear!
+Dec 12 17:09:08 - [DEBUG] finished confirm_xxnet_exit
+Dec 12 17:09:14 - [INFO] gae_proxy started
+Dec 12 17:09:14 - [INFO] start gae_proxy time cost 6275
+Dec 12 17:09:14 - [INFO] begin to start web control
+Dec 12 17:09:14 - [INFO] launcher web control started.
+Dec 12 17:09:15 - [INFO] generate desktop shortcut
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3106 GET /css/bootstrap.css 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3107 GET /css/bootstrap-responsive.css 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3108 GET /css/flat-ui.css 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3109 GET /css/ladda-themeless.min.css 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3110 GET /css/style.css?v=1 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3112 GET /js/bootstrap.min.js 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3114 GET /js/site.js?20150512 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3115 GET /js/jquery-1.11.2.min.js 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3116 GET /js/spin.min.js 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3117 GET /js/ladda.min.js 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3118 GET /js/flat-ui.min.js 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3119 GET /img/quit.png 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3120 GET /img/fixed-width.png 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3121 GET /img/logo.png 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3122 GET /js/jquery.timer.js 
+Dec 12 17:09:16 - [DEBUG] launcher web_control 127.0.0.1:3123 GET /favicon.ico 
+Dec 12 17:09:17 - [INFO] need_new_uuid: uuid is empty
+Dec 12 17:09:17 - [INFO] generate uuid:b0688689-99af-4196-82f2-484cf30945b0
+Dec 12 17:09:17 - [INFO] get uuid:b0688689-99af-4196-82f2-484cf30945b0
+Dec 12 17:09:17 - [ERROR] xxnet_version fail
+Dec 12 17:09:28 - [DEBUG] module gae_proxy stopping
+Dec 12 17:09:29 - [INFO] module gae_proxy stopped
+Dec 12 17:10:34 - [ERROR] xxnet_version fail
+Dec 12 17:10:34 - [INFO] start XX-Net get_version_fail
+Dec 12 17:10:34 - [DEBUG] start confirm_xxnet_exit
+Dec 12 17:10:35 - [DEBUG] good, xxnet:8087 cleared!
+Dec 12 17:10:36 - [DEBUG] good, xxnet:8085 clear!
+Dec 12 17:10:36 - [DEBUG] finished confirm_xxnet_exit
+Dec 12 17:10:37 - [INFO] gae_proxy started
+Dec 12 17:10:37 - [INFO] start gae_proxy time cost 1425
+Dec 12 17:10:37 - [INFO] begin to start web control
+Dec 12 17:10:37 - [INFO] launcher web control started.
+Dec 12 17:10:38 - [INFO] get uuid:b0688689-99af-4196-82f2-484cf30945b0
+Dec 12 17:10:38 - [ERROR] xxnet_version fail
+Dec 12 17:10:39 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/README.md to E:\Ñ¸À×ÏÂÔØ\GoogleChrome13\data\downloads\README.md, retry:0
+Dec 12 17:10:39 - [ERROR] xxnet_version fail
+Dec 12 17:10:53 - [DEBUG] launcher web_control 127.0.0.1:4076 GET /img/glyphicons-halflings.png 
+Dec 12 17:10:59 - [DEBUG] launcher web_control 127.0.0.1:4137 GET /download?cmd=get_progress 
+Dec 12 17:11:00 - [DEBUG] launcher web_control 127.0.0.1:4138 GET /config?cmd=get_config 
+Dec 12 17:11:00 - [ERROR] xxnet_version fail
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4186 GET /css/bootstrap.css 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4187 GET /css/bootstrap-responsive.css 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4189 GET /css/flat-ui.css 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4190 GET /js/jquery-1.11.2.min.js 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4191 GET /css/style.css?v=1 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4188 GET /css/ladda-themeless.min.css 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4193 GET /js/flat-ui.min.js 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4194 GET /js/spin.min.js 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4195 GET /js/site.js?20150512 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4196 GET /js/jquery.timer.js 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4197 GET /js/bootstrap.min.js 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4198 GET /js/ladda.min.js 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4200 GET /download?cmd=get_progress 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4201 GET /img/logo.png 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4202 GET /img/fixed-width.png 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4203 GET /img/quit.png 
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4204 GET /config?cmd=get_config 
+Dec 12 17:11:03 - [ERROR] xxnet_version fail
+Dec 12 17:11:03 - [DEBUG] launcher web_control 127.0.0.1:4205 GET /img/glyphicons-halflings.png 
+Dec 12 17:11:05 - [DEBUG] launcher web_control 127.0.0.1:4206 GET /config?cmd=set_config&popup_webui=0 
+Dec 12 17:11:05 - [ERROR] xxnet_version fail
+Dec 12 17:11:13 - [DEBUG] launcher web_control 127.0.0.1:4305 GET /config?cmd=set_config&check_update=dont-check 
+Dec 12 17:11:13 - [ERROR] xxnet_version fail
+Dec 12 17:11:35 - [DEBUG] launcher web_control 127.0.0.1:4504 GET /download?cmd=get_progress 
+Dec 12 17:11:35 - [DEBUG] launcher web_control 127.0.0.1:4510 GET /config?cmd=get_config 
+Dec 12 17:11:35 - [ERROR] xxnet_version fail
+Dec 12 17:11:48 - [DEBUG] module gae_proxy stopping
+Dec 12 17:11:49 - [INFO] module gae_proxy stopped
+Dec 12 17:12:20 - [ERROR] xxnet_version fail
+Dec 12 17:12:20 - [INFO] start XX-Net get_version_fail
+Dec 12 17:12:20 - [DEBUG] start confirm_xxnet_exit
+Dec 12 17:12:21 - [DEBUG] good, xxnet:8087 cleared!
+Dec 12 17:12:22 - [DEBUG] good, xxnet:8085 clear!
+Dec 12 17:12:22 - [DEBUG] finished confirm_xxnet_exit
+Dec 12 17:12:42 - [INFO] gae_proxy started
+Dec 12 17:12:42 - [INFO] start gae_proxy time cost 20335
+Dec 12 17:12:42 - [INFO] begin to start web control
+Dec 12 17:12:42 - [INFO] launcher web control started.
+Dec 12 17:12:51 - [ERROR] xxnet_version fail
+Dec 12 17:12:51 - [INFO] start XX-Net get_version_fail
+Dec 12 17:12:51 - [DEBUG] start confirm_xxnet_exit
+Dec 12 17:12:52 - [DEBUG] good, xxnet:8087 cleared!
+Dec 12 17:12:53 - [DEBUG] good, xxnet:8085 clear!
+Dec 12 17:12:53 - [DEBUG] finished confirm_xxnet_exit
+Dec 12 17:12:54 - [INFO] gae_proxy started
+Dec 12 17:12:54 - [INFO] start gae_proxy time cost 1400
+Dec 12 17:12:54 - [INFO] begin to start web control
+Dec 12 17:12:54 - [INFO] launcher web control started.
+Dec 12 17:14:38 - [DEBUG] module gae_proxy stopping
+Dec 12 17:14:39 - [INFO] module gae_proxy stopped

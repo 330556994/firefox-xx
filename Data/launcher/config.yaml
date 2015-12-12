@@ -1,0 +1,9 @@
+modules:
+  gae_proxy: {auto_start: 1}
+  launcher: {allow_remote_connect: 0, control_port: 8085, popup_webui: 0}
+  php_proxy: {control_port: 8083}
+update:
+  check_update: dont-check
+  last_path: !!binary |
+    RTpc0bjA18/C1NhcR29vZ2xlQ2hyb21lMTNcbGF1bmNoZXI=
+  uuid: b0688689-99af-4196-82f2-484cf30945b0
