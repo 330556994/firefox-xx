@@ -1,11 +1,12 @@
 Chrome+XX-Net
 ========
-* 项目状态：Chome_47.0.2526.73集成XX-Net_2.7.3, 新用户启动后，需要等待一段时间（20分钟到1小时），扫描到足够ip之后会比较流畅  
+* 项目状态：Chome_47.0.2526.80集成XX-Net_2.7.3, 新用户启动后，需要等待一段时间（20分钟到1小时），扫描到足够ip之后会比较流畅  
 
-* 点击Chrome.vbs启动。如果SwitchyOmega插件弹出“你的互联网连接受到控制”，请点击保留更改。
+* 点击Chrome-XX.vbs启动。如果SwitchyOmega插件弹出“你的互联网连接受到控制”，请点击保留更改。
 
 下载链接：
 ==========
+* [Chrome47集成XX-Net_2.7.3  抢鲜版](https://www.dropbox.com/s/49i1ggocr181ebz/Chrome47.0.2526.80xx.zip?dl=0)
 
 * [Chrome46集成XX-Net_2.6.2  稳定版](https://github.com/yeahwu/chrome-xx/archive/Chrome_46.0.2490.80%E9%9B%86%E6%88%90XX-Net_2.6.2.zip)
    
@@ -22,7 +23,7 @@ Chrome+XX-Net
 
 主要特性
 ========
-* 点击Chrome.vbs启动，启动前会检测进程，所以不管怎么打开关闭，系统里只保留一个进程。
+* 点击Chrome-XX.vbs启动，启动前会检测进程，所以不管怎么打开关闭，系统里只保留一个进程。
 * 隐藏goagent窗口，隐藏xx-net窗口，去掉弹窗。
 * 自动导入证书，减少大量手动工作。
 * 内置了80个私人appid, 方便新手。（老手请换上自己的APPID）下面是申请、使用appid的详细教程：https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids
@@ -34,7 +35,7 @@ Chrome+XX-Net
 
 使用方法：
 ========
-* Windows下, 双击 Chrome.vbs，不用任何配置。
+* Windows下, 双击 Chrome-XX.vbs，不用任何配置。
   - 托盘图标：点击可弹出Web管理界面, 右键可显示常用功能菜单。
   - Win7/8/10：提示请求管理员权限, 安装CA证书。请点击同意。
 
