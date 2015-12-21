@@ -25,7 +25,7 @@ Chrome+XX-Net
 主要特性
 ========
 * 点击Chrome-XX.vbs启动，启动前会检测进程，所以不管怎么打开关闭，系统里只保留一个进程。
-* 隐藏goagent窗口，隐藏xx-net窗口，去掉弹窗。
+* 隐藏goagent窗口，禁止启动弹窗，禁止创建桌面xx-net快捷方式。
 * 自动导入证书，减少大量手动工作。
 * 内置了80个私人appid, 方便新手。（老手请换上自己的APPID）下面是申请、使用appid的详细教程：https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids
 
