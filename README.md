@@ -19,6 +19,8 @@ Chrome+XX-Net
    - 需要 tcpip.sys 补丁, 比如用 tcp-z ，下面是补丁下载地址，将数量调节到2014。    https://github.com/yeahwu/wu/raw/master/WindowsXP-TCPIP-concurrency-count-patch.rar
 * 文件解压错误问题: 
    - 请用7-zip解压
+* 遇到插件损坏问题:
+   - 这是由于github自动压缩导致的，重新下载，或者点击dropbox下载，即可解决。
 * 遇到“您的连接不是私密连接”问题: 
    - 点击chrome菜单 - 设置 - 证书管理 - 导入 - 下一步 - 找到Data\gae_proxy 目录下的 "CA.crt" 证书- 安装证书 - 下一步 - 选择 “将所有的证书放入下列存储” - 浏览 - 选择 “受信任的根证书发布机构” - 下一步 - 完成。重新启动浏览器。
 
@@ -27,7 +29,7 @@ Chrome+XX-Net
 * 点击Chrome-XX.vbs启动，启动前会检测进程，所以不管怎么打开关闭，系统里只保留一个进程。
 * 隐藏goagent窗口，禁止启动弹窗，禁止创建桌面xx-net快捷方式。
 * 自动导入证书，减少大量手动工作。
-* 内置了80个私人appid, 方便新手。（老手请换上自己的APPID）下面是申请、使用appid的详细教程：https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids
+* 内置了100个私人appid, 方便新手。（老手请换上自己的APPID）下面是申请、使用appid的详细教程：https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids
 
 平台支持情况
 ================
