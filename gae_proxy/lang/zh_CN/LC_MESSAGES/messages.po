@@ -421,7 +421,7 @@ msgid "Connection not established yet. "
 msgstr "尚未建立连接"
 
 msgid "Please check your browser proxy setting."
-msgstr "请检查浏览器代理设置。"
+msgstr "请确认XX-Net是在代理本浏览器？然后，检查浏览器代理设置。"
 
 msgid "Detecting..."
 msgstr "正在自检..."
