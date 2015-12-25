@@ -1,6 +1,6 @@
 Chrome+XX-Net
 -------------
-* 项目状态：Chome_47.0.2526.80集成XX-Net_2.8.3, 懒人翻墙包。点击 Chrome-XX.vbs启动 ，初次运行请等待10分钟左右扫ip，扫到足够ip后会更流畅。
+* 项目状态：Chome_47.0.2526.80集成XX-Net_2.8.3, 懒人翻墙包。点击 Chrome-XX.vbs启动 ，初次运行请等待10分钟左右，扫到足够ip后会更流畅。
 
 下载链接：
 --------
@@ -43,7 +43,7 @@ Chrome+XX-Net
 
 联系
 -------
-* [Google](https://plus.google.com/communities/101215702940766881013)
+* [Google+](https://plus.google.com/communities/101215702940766881013)
 * [Twitter](https://twitter.com/yeahwu404)
 
 感谢
