@@ -421,7 +421,7 @@ msgid "Connection not established yet. "
 msgstr "尚未建立连接"
 
 msgid "Please check your browser proxy setting."
-msgstr "“我要一步、一步往上爬……小小的天有大大的梦想……”，别爬了，你已经出来了！"
+msgstr "“我要一步、一步往上爬……小小的天有大大的梦想……”，累死俺了，终于爬出来了！"
 
 msgid "Detecting..."
 msgstr "正在自检..."
