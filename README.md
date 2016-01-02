@@ -1,12 +1,12 @@
 Chrome+XX-Net
 -------------
-* 项目状态：Chome_47.0.2526.80集成XX-Net_2.8.3, 懒人翻墙包。点击 Chrome-XX.vbs启动 ，初次运行请等待10分钟左右，扫到足够ip后会更流畅。
+* 项目状态：Chome_47.0.2526.80集成XX-Net_2.8.9, 懒人翻墙包。点击 Chrome-XX.vbs启动 ，初次运行请等待10分钟左右，扫到足够ip后会更流畅。
 
 下载链接：
 --------
-* Chrome47集成XX-Net_2.8.3  稳定版 [本地下载](https://github.com/yeahwu/chrome-xx/archive/Chome_47.0.2526.80%E9%9B%86%E6%88%90XX-Net_2.8.3.zip)
+* Chrome47集成XX-Net_2.8.9  测试版 [本地下载](https://github.com/yeahwu/chrome-xx/archive/master.zip)
 
-* Chrome47集成XX-Net_2.7.3  稳定版 [Dropbox下载](https://www.dropbox.com/s/o76ywyjp0knhhco/Chrome47%2BXX-Net_2.73.7z?dl=0)
+* Chrome47集成XX-Net_2.8.3  稳定版 [本地下载](https://github.com/yeahwu/chrome-xx/archive/Chome_47.0.2526.80%E9%9B%86%E6%88%90XX-Net_2.8.3.zip)
    
 * [历史版本](https://github.com/yeahwu/chrome/releases)
 
