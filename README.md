@@ -21,8 +21,8 @@ Chrome+XX-Net
 -----
 * xp系统问题:
    - 需要 tcpip.sys 补丁, 比如用 tcp-z ，下面是补丁下载地址，将数量调节到2014。    https://github.com/yeahwu/wu/raw/master/WindowsXP-TCPIP-concurrency-count-patch.rar
-* 文件解压错误问题: 
-   - 请用7-zip解压
+* 遇到“password is wrong”问题: 
+   - #10
 * 遇到代理插件损坏问题:
    - 这是由于github自动压缩导致的，重新下载，或者点击dropbox下载，即可解决。
 * 遇到“您的连接不是私密连接”问题: 
