@@ -35,6 +35,10 @@ Chrome+XX-Net
 * 自动导入证书，减少大量手动工作。
 * 内置了120个私人appid, 方便新手。
 
+创建个人APPPID
+-----------
+详细图文教程：https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids
+
 平台支持情况
 ------------
 * Windows XP （需要 tcpip.sys 补丁, 比如用 tcp-z）
