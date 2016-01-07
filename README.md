@@ -6,7 +6,7 @@ Chrome+XX-Net
 --------
 * Chrome47集成XX-Net_2.8.9  测试版 [本地下载](https://github.com/yeahwu/chrome-xx/archive/master.zip)
 
-* Chrome47集成XX-Net_2.8.3  稳定版 [本地下载](https://github.com/yeahwu/chrome-xx/archive/Chome_47.0.2526.80%E9%9B%86%E6%88%90XX-Net_2.8.3.zip)
+* Chrome47集成XX-Net_2.7.3  稳定版 [本地下载](https://github.com/yeahwu/chrome-xx/archive/Chome_47.0.2526.80%E9%9B%86%E6%88%90XX-Net_2.7.3.zip)
    
 * [历史版本](https://github.com/yeahwu/chrome/releases)
 
