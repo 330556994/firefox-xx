@@ -22,7 +22,7 @@ Chrome+XX-Net
 * xp系统问题:
    - 需要 tcpip.sys 补丁, 比如用 tcp-z ，下面是补丁下载地址，将数量调节到2014。    https://github.com/yeahwu/wu/raw/master/WindowsXP-TCPIP-concurrency-count-patch.rar
 * 遇到“password is wrong”问题: 
-   - #10
+   - 主要是公共appid设置了rc4密码导致的,新版已更正。另外由于appid不够用也会出现这种问题，下午4点以后id重置后就可以连接了。
 * 遇到代理插件损坏问题:
    - 这是由于github自动压缩导致的，重新下载，或者点击dropbox下载，即可解决。
 * 遇到“您的连接不是私密连接”问题: 
