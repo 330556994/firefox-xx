@@ -22,7 +22,7 @@ Chrome+XX-Net
 * xp系统问题:
    - 需要 tcpip.sys 补丁, 比如用 tcp-z ，下面是补丁下载地址，将数量调节到2014。    https://github.com/yeahwu/wu/raw/master/WindowsXP-TCPIP-concurrency-count-patch.rar
 * 遇到“password is wrong”问题: 
-   - 主要是公共appid设置了rc4密码导致的,新版已更正。另外由于appid不够用也会出现这种问题，下午4点以后id重置后就可以连接了。
+   - 主要是公共appid设置了rc4密码导致的,新版已修复。另外由于appid不够用也会出现这种问题，下午4点以后id重置后就可以连接了。
 * 遇到代理插件损坏问题:
    - 这是由于github自动压缩导致的，重新下载，或者点击dropbox下载，即可解决。
 * 遇到“您的连接不是私密连接”问题: 
@@ -33,7 +33,7 @@ Chrome+XX-Net
 * 点击Chrome-XX.vbs启动，启动前会检测进程，所以不管怎么打开关闭，系统里只保留一个进程。
 * 隐藏goagent窗口，禁止启动弹窗，禁止创建桌面xx-net快捷方式。
 * 自动导入证书，减少大量手动工作。
-* 内置了120个私人appid, 方便新手。
+* 内置了150个私人appid, 方便新手。
 
 创建个人APPID
 -----------
