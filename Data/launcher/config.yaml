@@ -1,6 +1,0 @@
-modules:
-  gae_proxy: {auto_start: 1}
-  launcher: {allow_remote_connect: 0, control_port: 8085, popup_webui: 0, proxy: disable}
-  php_proxy: {control_port: 8083}
-update: {check_update: dont-check, last_path: 'E:\QQ\chrome-xx-Chome_47.0.2526.80-XX-Net_2.7.3\launcher',
-  uuid: b0688689-99af-4196-82f2-484cf30945b0}
