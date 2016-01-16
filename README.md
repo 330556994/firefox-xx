@@ -4,9 +4,9 @@ Firefox+XX-Net
 
 下载链接：
 --------
-* Firefox43.0.4集成XX-Net_2.8.9  测试版   [本地下载](https://github.com/yeahwu/firefox-xx/archive/master.zip)
+* Firefox43.0.4集成XX-Net_2.8.9  正式版   [本地下载](https://github.com/yeahwu/firefox-xx/archive/master.zip)
 
-* Firefox43.0.4集成XX-Net_2.8.9  测试版   [Dropbox下载](https://www.dropbox.com/s/kxsxqx4xn15zf9n/Firefox-XX.7z?dl=0)
+* Firefox43.0.4集成XX-Net_2.8.9  正式版   [Dropbox下载](https://www.dropbox.com/s/kxsxqx4xn15zf9n/Firefox-XX.7z?dl=0)
 
 使用方法：
 ----------
@@ -28,7 +28,7 @@ Firefox+XX-Net
 * 隐藏goagent窗口，禁止启动弹窗，禁止创建桌面xx-net快捷方式。
 * 自动导入证书，减少大量手动工作。
 * 内置了150个私人appid, 方便新手。
-* 火狐可同步，可自动更新。
+* 火狐解除第三方插件限制，可同步，可自动更新。
 
 创建个人APPID
 -----------
