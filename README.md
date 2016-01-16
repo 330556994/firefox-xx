@@ -18,8 +18,7 @@ Firefox+XX-Net
 -----
 * xp系统问题:
    - 需要 tcpip.sys 补丁, 比如用 tcp-z ，下面是补丁下载地址，将数量调节到2014。    https://github.com/yeahwu/wu/raw/master/WindowsXP-TCPIP-concurrency-count-patch.rar
-* 遇到“password is wrong”问题: 
-   - 主要是公共appid设置了rc4密码导致的,新版已修复。另外由于appid不够用也会出现这种问题，下午4点以后id重置后就可以连接了。
+
 * 遇到“您的连接不是私密连接”问题: 
    - 点击Firefox菜单 - 选项 - 高级 - 证书 - 查看证书 - 导入 - 找到Data\gae_proxy 目录下的 "CA.crt" 证书 - 弹出的“下载证书”窗口 - 选择"信任使用此CA标识的网站"，确定  - 确定。重新启动浏览器。
 
@@ -57,11 +56,11 @@ Firefox+XX-Net
 附图
 --------
 
-chrome状态页
+火狐状态页
 
-![chrome_status](https://github.com/yeahwu/wu/blob/master/chrome1.JPG?raw=true)
+![chrome_status](https://github.com/yeahwu/wu/blob/master/firefox8.JPG?raw=true)
 
 GAEProxy状态页面
 
-![goagent_status](https://github.com/yeahwu/wu/blob/master/chrome2.JPG?raw=true)
+![goagent_status](https://raw.githubusercontent.com/yeahwu/wu/master/firefoxxx.JPG)
 
