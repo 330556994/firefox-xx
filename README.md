@@ -1,19 +1,17 @@
-Chrome+XX-Net
+Firefox+XX-Net
 -------------
-* 项目状态：Chome_47.0.2526.80集成XX-Net_2.8.9, 懒人翻墙包。点击 Chrome-XX.vbs启动 ，初次运行请等待10分钟左右，扫到足够ip后会更流畅。
+* 项目状态：Firefox43.0.4集成XX-Net_2.8.9, 懒人翻墙包。点击 Firefox-XX.vbs启动 ，初次运行请等待10分钟左右，扫到足够ip后会更流畅。
 
 下载链接：
 --------
-* chrome更新检测机制，导致插件丢失，问题修复中……  暂停下载
-   
-* [历史版本](https://github.com/yeahwu/chrome/releases)
+* Firefox43.0.4集成XX-Net_2.8.9  测试版   [本地下载](https://github.com/yeahwu/firefox-xx/archive/master.zip)
 
 使用方法：
 ----------
-* Windows下, 点击 Chrome-XX.vbs启动，不用任何配置。
-  - SwitchyOmega插件：弹出“你的互联网连接受到控制”，请点击保留更改。
+* Windows下, 点击 Firefox-XX.vbs启动，不用任何配置。
   - Win7/8/10：提示请求管理员权限, 安装CA证书。请点击同意。
   - 托盘图标：点击可弹出Web管理界面, 右键可显示常用功能菜单。
+* 手动导入GoAgent XX-Net证书
 
 问题
 -----
@@ -21,8 +19,6 @@ Chrome+XX-Net
    - 需要 tcpip.sys 补丁, 比如用 tcp-z ，下面是补丁下载地址，将数量调节到2014。    https://github.com/yeahwu/wu/raw/master/WindowsXP-TCPIP-concurrency-count-patch.rar
 * 遇到“password is wrong”问题: 
    - 主要是公共appid设置了rc4密码导致的,新版已修复。另外由于appid不够用也会出现这种问题，下午4点以后id重置后就可以连接了。
-* 遇到代理插件损坏问题:
-   - 这是由于github自动压缩导致的，重新下载，或者点击dropbox下载，即可解决。
 * 遇到“您的连接不是私密连接”问题: 
    - 点击chrome菜单 - 设置 - 证书管理 - 导入 - 下一步 - 找到Data\gae_proxy 目录下的 "CA.crt" 证书- 安装证书 - 下一步 - 选择 “将所有的证书放入下列存储” - 浏览 - 选择 “受信任的根证书发布机构” - 下一步 - 完成。重新启动浏览器。
 
