@@ -58,7 +58,7 @@ Firefox+XX-Net
 
 火狐状态页
 
-![chrome_status](https://github.com/yeahwu/wu/blob/master/firefox8.JPG?raw=true)
+![chrome_status](https://raw.githubusercontent.com/yeahwu/wu/master/firefox0.JPG)
 
 GAEProxy状态页面
 
