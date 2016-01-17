@@ -61,7 +61,7 @@ Firefox+XX-Net
 
 ![chrome_status](https://raw.githubusercontent.com/yeahwu/wu/master/firefox0.JPG)
 
-GAEProxy状态页面
+XX-Net状态页面
 
 ![goagent_status](https://raw.githubusercontent.com/yeahwu/wu/master/firefoxxx.JPG)
 
