@@ -34,7 +34,7 @@ Firefox+XX-Net
 -----------
 * 详细图文教程：https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids
 
-平台支持情况
+平台支持
 ------------
 * Windows XP （需要 tcpip.sys 补丁, 比如用 tcp-z）
 * Win7/8/10
@@ -59,7 +59,7 @@ Firefox+XX-Net
 
 火狐状态页
 
-![chrome_status](https://raw.githubusercontent.com/yeahwu/wu/master/firefox0.JPG)
+![firefox_status](https://raw.githubusercontent.com/yeahwu/wu/master/firefox0.JPG)
 
 XX-Net状态页面
 
