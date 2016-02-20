@@ -6,7 +6,7 @@ Firefox+XX-Net
 --------
 * Firefox43.0.4集成XX-Net_2.8.9  正式版   [本地下载](https://github.com/yeahwu/firefox-xx/archive/master.zip)
 
-* Firefox43.0.4集成XX-Net_2.8.9  正式版   [Dropbox下载](https://www.dropbox.com/s/qu33h4usmm5bs2f/firefox-xx-master.zip?dl=0)
+* Firefox44.0.2，64位 集成XX-Net_2.8.9  正式版   [Dropbox下载](https://www.dropbox.com/s/wvc7l5fw53x5dkh/Firefox64-XX.rar?dl=0)
 
 使用方法：
 ----------
