@@ -33,6 +33,7 @@ Firefox+XX-Net
 APPID
 -----------
 * 创建个人APPID图文教程：https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids
+
 * 本项目接受APPID捐赠，大家有闲余的ID，请联系俺。谢谢（另，不接受设置了RC4密码的ID）
 
 平台支持
