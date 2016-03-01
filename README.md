@@ -30,9 +30,9 @@ Firefox+XX-Net
 * 内置了150个私人appid, 方便新手。
 * 火狐解除第三方插件限制，可同步，可自动更新。
 
-创建个人APPID
+APPID
 -----------
-* 详细图文教程：https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids
+* 创建个人APPID图文教程：https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids
 * 本项目接受APPID捐赠，大家有闲余的ID，请联系俺。谢谢（另，不接受设置了RC4密码的ID）
 
 平台支持
@@ -44,7 +44,6 @@ Firefox+XX-Net
 -------
 * [Google+](https://plus.google.com/communities/101215702940766881013)
 * [Twitter](https://twitter.com/yeahwu404)
-* [Gmail](yeahwu404@gmail.com)
 
 感谢
 -------
