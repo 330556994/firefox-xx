@@ -1,7 +1,7 @@
 
 function CreateShortcut()
 {
-   wsh = new ActiveXObject('WScript.Shell');
+   /*wsh = new ActiveXObject('WScript.Shell');
    target_path = '"' + wsh.CurrentDirectory + '\\..\\python27\\1.0\\pythonw.exe"';
    icon_path = wsh.CurrentDirectory + '\\web_ui\\favicon.ico';
 
@@ -13,7 +13,7 @@ function CreateShortcut()
    link.IconLocation = icon_path;
    link.Description = 'XX-Net';
    link.WorkingDirectory = wsh.CurrentDirectory;
-   link.Save();
+   link.Save();*/
 }
 
 
