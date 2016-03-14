@@ -1,6 +1,6 @@
 Firefox+XX-Net
 -------------
-* 项目状态：Firefox45.0集成XX-Net_2.9.4, 懒人翻墙包。点击 Firefox-XX.vbs启动 ，初次运行请等待10分钟左右，扫到足够ip后会更流畅。已开启X_Tunnel模块，需要用X_Tunnel请在autoproxy插件上切换至“X_Tunnel”
+* 项目状态：Firefox45.0集成XX-Net_2.9.4, 懒人翻墙包。点击 Firefox-XX.vbs启动 ，初次运行请等待10分钟左右，扫到足够ip后会更流畅。已开启X_Tunnel模块，Autoproxy插件已添加“X_Tunnel”代理。
 
 下载链接：
 --------
@@ -18,7 +18,7 @@ Firefox+XX-Net
 
 问题
 -----
-* xp系统问题:
+* XP系统问题:
    - 需要 tcpip.sys 补丁, 比如用 tcp-z ，下面是补丁下载地址，将数量调节到2014。    https://github.com/yeahwu/wu/raw/master/WindowsXP-TCPIP-concurrency-count-patch.rar
 
 * 遇到“安全连接失败”问题: 
@@ -29,7 +29,7 @@ Firefox+XX-Net
 * 点击Firefox-XX.vbs启动，启动前会检测进程，所以不管怎么打开关闭，系统里只保留一个进程。
 * 隐藏goagent窗口，禁止启动弹窗，禁止创建桌面xx-net快捷方式。
 * 自动导入证书，减少大量手动工作。
-* 内置了150个私人appid, 方便新手。
+* 内置了200个私人appid, 方便新手。
 * 火狐解除第三方插件限制，可同步，可自动更新。
 
 APPID
