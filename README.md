@@ -1,12 +1,14 @@
 Firefox+XX-Net
 -------------
-* 项目状态：Firefox43.0.4集成XX-Net_2.8.9, 懒人翻墙包。点击 Firefox-XX.vbs启动 ，初次运行请等待10分钟左右，扫到足够ip后会更流畅。
+* 项目状态：Firefox45.0集成XX-Net_2.9.4, 懒人翻墙包。点击 Firefox-XX.vbs启动 ，初次运行请等待10分钟左右，扫到足够ip后会更流畅。已开启X_Tunnel模块，需要用X_Tunnel请在autoproxy插件上切换至“X_Tunnel”
 
 下载链接：
 --------
-* Firefox43.0.4集成XX-Net_2.8.9  PLUS版   [本地下载](https://github.com/yeahwu/firefox-xx/archive/Firefox43.0.4%E9%9B%86%E6%88%90XX-Net_2.8.9plus.zip)
+* Firefox45.0集成XX-Net_2.9.4 抢鲜版 [本地下载](https://github.com/yeahwu/firefox-xx/archive/master.zip)
 
-* Firefox44.0.2，64位 集成XX-Net_2.8.9  正式版   [Dropbox下载](https://www.dropbox.com/s/wvc7l5fw53x5dkh/Firefox64-XX.rar?dl=0)
+* Firefox43.0.4集成XX-Net_2.8.9 稳定版  [本地下载](https://github.com/yeahwu/firefox-xx/archive/Firefox43.0.4%E9%9B%86%E6%88%90XX-Net_2.8.9plus.zip)
+
+* Firefox44.0.2，64位 集成XX-Net_2.8.9  稳定版   [Dropbox下载](https://www.dropbox.com/s/wvc7l5fw53x5dkh/Firefox64-XX.rar?dl=0)
 
 使用方法：
 ----------
