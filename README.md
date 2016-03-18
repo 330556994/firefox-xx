@@ -4,7 +4,7 @@ Firefox+XX-Net
 
 下载链接：
 --------
-* Firefox45.0集成XX-Net_2.9.4 抢鲜版 [本地下载](https://github.com/yeahwu/firefox-xx/archive/master.zip)
+* Firefox45.0集成XX-Net_2.9.4 测试版 [本地下载](https://github.com/yeahwu/firefox-xx/archive/master.zip)
 
 * Firefox43.0.4集成XX-Net_2.8.9 稳定版  [本地下载](https://github.com/yeahwu/firefox-xx/archive/Firefox43.0.4%E9%9B%86%E6%88%90XX-Net_2.8.9plus.zip)
 
