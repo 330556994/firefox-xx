@@ -8,15 +8,13 @@ strFolder = objFSO.GetParentFolderName(objFile)
 Dim NRun
 NRun = True
 For Each ps In Getobject("winmgmts:\\.\root\cimv2:win32_process").instances_
-If UCase(ps.name) = UCase("pythonw.exe") Then ps.terminate : NRun = False
+If UCase(ps.name) = UCase("python27.exe") Then ps.terminate : NRun = False
+If UCase(ps.name) = UCase("goagent.exe") Then ps.terminate : NRun = False
 Next
 
 Dim strArgs
 quo = """"
-strArgs = quo & strFolder & "\Firefox.exe" & quo
+strArgs = quo & strFolder & "\FirefoxPortable.exe" & quo
 oShell.Run strArgs, 0, false
-strArgs = quo & strFolder & "\python27\1.0\pythonw.exe" & quo & " " & quo & strFolder & "\launcher\start.py " & quo
+strArgs = quo & strFolder & "\goagent.exe" & quo
 oShell.Run strArgs, 0, false
-
-
-

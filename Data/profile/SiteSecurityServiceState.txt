@@ -1,4 +1,1 @@
-services.addons.mozilla.org:HSTS	1	16874	1489470822756,1,0
-duckduckgo.com:HSTS	1	16874	1489470830697,1,0
-addons.cdn.mozilla.net:HSTS	0	16815	1484401821962,1,0
-raw.githubusercontent.com:HSTS	1	16874	1489470761367,1,0
+self-repair.mozilla.org:HSTS	0	16920	1461922478693,1,1
