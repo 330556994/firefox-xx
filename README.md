@@ -1,12 +1,12 @@
 Firefox+XX-Net
 -------------
-* 项目状态：Firefox45.0集成XX-Net_2.9.4, 懒人翻墙包。点击 Firefox-XX.vbs启动 ，初次运行请等待10分钟左右，扫到足够ip后会更流畅。已开启X_Tunnel模块，Autoproxy插件已添加“X_Tunnel”代理。
+* 项目状态：Firefox45 ESR集成XX-Mini-v1.2.6版, 懒人翻墙包。点击 Firefox-XX.vbs启动 ，初次运行请等待10分钟左右，扫到足够ip后会更流畅。
 
 下载链接：
 --------
 * Firefox45.0集成XX-Net_2.9.4 测试版 [本地下载](https://github.com/yeahwu/firefox-xx/archive/master.zip)
 
-* Firefox43.0.4集成XX-Net_2.8.9 稳定版  [本地下载](https://github.com/yeahwu/firefox-xx/archive/Firefox43.0.4%E9%9B%86%E6%88%90XX-Net_2.8.9plus.zip)
+* Firefox43.0.4集成XX-Net_2.8.9 PLUS版  [本地下载](https://github.com/yeahwu/firefox-xx/archive/Firefox43.0.4%E9%9B%86%E6%88%90XX-Net_2.8.9plus.zip)
 
 * Firefox44.0.2，64位 集成XX-Net_2.8.9  稳定版   [Dropbox下载](https://www.dropbox.com/s/wvc7l5fw53x5dkh/Firefox64-XX.rar?dl=0)
 
@@ -32,11 +32,6 @@ Firefox+XX-Net
 * 内置了200个私人appid, 方便新手。
 * 火狐解除第三方插件限制，可同步，可自动更新。
 
-APPID
------------
-* 创建个人APPID图文教程：https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids
-
-* 本项目接受APPID捐赠，大家有闲余的ID，请联系俺。谢谢（另，不接受设置了RC4密码的ID）
 
 平台支持
 ------------
@@ -52,9 +47,7 @@ APPID
 -------
 * XX-Net
 * GoAgent
-* GoGoTest
-* goagentfindip
-* checkgoogleip
+* XX-Mini
 * PortableApps
 * 无私奉献APPID的网友
 
