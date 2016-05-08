@@ -5,11 +5,9 @@ Firefox+XX-Net
 
 下载链接：
 --------
-* Firefox45 ESR集成XX-Mini-v1.2.6 测试版 [本地下载](https://github.com/yeahwu/firefox-xx/archive/master.zip)
+* Firefox45 ESR集成XX-Mini-v1.2.6 正式版 [本地下载](https://github.com/yeahwu/firefox-xx/archive/master.zip)
 
 * Firefox43.0.4集成XX-Net_2.8.9 PLUS版  [本地下载](https://github.com/yeahwu/firefox-xx/archive/Firefox43.0.4%E9%9B%86%E6%88%90XX-Net_2.8.9plus.zip)
-
-* Firefox44.0.2，64位 集成XX-Net_2.8.9  稳定版   [Dropbox下载](https://www.dropbox.com/s/wvc7l5fw53x5dkh/Firefox64-XX.rar?dl=0)
 
 使用方法：
 ----------
